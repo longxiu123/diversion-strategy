@@ -1,6 +1,6 @@
-# 贴吧屏蔽域名dns查询（by  app2smile）
+# 贴吧屏蔽域名dns查询（By  app2smile）
 IP-CIDR,180.76.76.200/32,REJECT
 
-#知乎
-IP-CIDR,118.89.204.198/32,REJECT（by  app2smile）
+#知乎（By  app2smile）
+IP-CIDR,118.89.204.198/32,REJECT
 IP6-CIDR,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,REJECT
