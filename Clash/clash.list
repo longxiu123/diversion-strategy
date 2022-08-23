@@ -4,6 +4,7 @@
 DOMAIN-SUFFIX,api.dler.io
 DOMAIN-SUFFIX,urlencoder.org
 DOMAIN-SUFFIX,yattazen.com
+DOMAIN-SUFFIX,raw.githubusercontent.com
 
 # 表示包含这个xxxx域名关键词的所有网站链接
-;DOMAIN-KEYWORD,xxxx
+DOMAIN-KEYWORD,elkcloud
