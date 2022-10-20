@@ -7,6 +7,7 @@ DOMAIN-SUFFIX,yattazen.com
 DOMAIN-SUFFIX,raw.githubusercontent.com
 DOMAIN-SUFFIX,www.94ish.men
 DOMAIN-SUFFIX,kali.org
+DOMAIN-SUFFIX,www.python.org
 
 # 表示包含这个xxxx域名关键词的所有网站链接
 DOMAIN-KEYWORD,elkcloud
