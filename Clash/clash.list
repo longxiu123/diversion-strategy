@@ -12,3 +12,4 @@ DOMAIN-SUFFIX,s.godyax.work
 
 # 表示包含这个xxxx域名关键词的所有网站链接
 DOMAIN-KEYWORD,elkcloud
+DOMAIN-KEYWORD,adguard
