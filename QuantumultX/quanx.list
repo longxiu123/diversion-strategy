@@ -4,3 +4,7 @@ IP-CIDR,180.76.76.200/32,REJECT
 #知乎（By  app2smile）
 IP-CIDR,118.89.204.198/32,REJECT
 IP6-CIDR,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,REJECT
+
+#bilibili切换地区
+#可选, 由于qx纯tun特性, 不添加规则可能会导致脚本失效. https://github.com/NobyDa/Script/issues/382
+ip-cidr, 203.107.1.1/24, reject
