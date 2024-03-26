@@ -1,4 +1,4 @@
-hostname = manga.bilibili.com, api.live.bilibili.com, api.vc.bilibili.com, mp.weixin.qq.com, edith.xiaohongshu.com, ap?.bili*i.com, ap?.bili*i.net
+hostname = manga.bilibili.com, api.live.bilibili.com, api.vc.bilibili.com, mp.weixin.qq.com, ap?.bili*i.com, ap?.bili*i.net
 #hostname = *.bilibili.com, ap?.bilibili.com, ap?.biliapi.net,
 
 #番剧地区自动切换
@@ -35,6 +35,3 @@ hostname = manga.bilibili.com, api.live.bilibili.com, api.vc.bilibili.com, mp.we
 
 ;微信公众号去广告 by Choler&NobyDa
 ^https?:\/\/mp\.weixin\.qq\.com\/mp\/getappmsgad url script-response-body https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/File/Wechat.js
-
-;小红书去开屏广告 by chouchoui
-^https?:\/\/edith\.xiaohongshu\.com\/api\/sns\/v2\/system_service\/splash_config url script-response-body https://raw.githubusercontent.com/chouchoui/QuanX/master/Scripts/xiaohongshu/xiaohongshu.ad.js
