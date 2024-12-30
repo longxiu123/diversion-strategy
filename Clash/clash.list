@@ -5,11 +5,10 @@ DOMAIN-SUFFIX,api.dler.io
 DOMAIN-SUFFIX,urlencoder.org
 DOMAIN-SUFFIX,yattazen.com
 DOMAIN-SUFFIX,raw.githubusercontent.com
-DOMAIN-SUFFIX,www.94ish.men
 DOMAIN-SUFFIX,kali.org
 DOMAIN-SUFFIX,www.python.org
 DOMAIN-SUFFIX,s.godyax.work
-DOMAIN-SUFFIX,chat.openai.com
+#DOMAIN-SUFFIX,chat.openai.com
 #DOMAIN-SUFFIX,api.temushuju.com
 DOMAIN-SUFFIX,temu.com
 
