@@ -10,7 +10,7 @@ DOMAIN-SUFFIX,www.python.org
 DOMAIN-SUFFIX,s.godyax.work
 DOMAIN-SUFFIX,chat.openai.com
 #DOMAIN-SUFFIX,api.temushuju.com
-#DOMAIN-SUFFIX,temu.com
+DOMAIN-SUFFIX,temu.com
 DOMAIN-SUFFIX,yun-api.subcloud.xyz
 
 # 表示包含这个xxxx域名关键词的所有网站链接
