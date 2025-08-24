@@ -1,10 +1,12 @@
 #---------规则基本来自互联网，仅个人使用---------------
 
+#正则表达式匹配
+DOMAIN-REGEX,^.*\.kuajingmaihuo\.com
 
 # 表示包含xxx.com域名后缀下的所有网站链接
-DOMAIN-SUFFIX,seller.kuajingmaihuo.com,DIRECT
-DOMAIN-SUFFIX,agentseller.temu.com,DIRECT
+#DOMAIN-SUFFIX,seller.kuajingmaihuo.com
+DOMAIN-SUFFIX,agentseller.temu.com
+DOMAIN-SUFFIX,seller.temu.com
 
 # 表示包含这个xxxx域名关键词的所有网站链接
-DOMAIN-KEYWORD,temushuju,DIRECT
-DOMAIN-KEYWORD,temu,节点选择
+DOMAIN-KEYWORD,temushuju
