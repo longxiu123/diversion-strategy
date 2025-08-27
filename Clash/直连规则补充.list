@@ -2,6 +2,7 @@
 
 #正则表达式匹配
 DOMAIN-REGEX,^.*\.kuajingmaihuo\.com
+DOMAIN-REGEX,^.*\.pftk.temu.com
 
 # 表示包含xxx.com域名后缀下的所有网站链接
 #DOMAIN-SUFFIX,seller.kuajingmaihuo.com
